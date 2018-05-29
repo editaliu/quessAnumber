@@ -16,6 +16,7 @@ function skaiciuoti() {
     
     else if (a = String)
         document.getElementById("viso").innerHTML = " it is not a number";
+        alert("It is not a number");
 
 }
 
