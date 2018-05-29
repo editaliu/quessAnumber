@@ -1,0 +1,17 @@
+body{
+    background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/05/Green-Bubbles-Wallpapers-Free-Download.png);
+    background-size: cover;
+}
+.container {
+    background-color: #67A2C2;
+    width: 60%;
+    text-align: center;
+    padding: 50px;
+    margin-top: 10%;
+    border: 1px thick;
+    border-radius: 100px;   
+}
+
+#fontit, #result, .form-group {
+    font-family: 'Righteous', cursive;
+}
